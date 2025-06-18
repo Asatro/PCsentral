@@ -6,10 +6,6 @@
 /hugo_stats.json
 /.hugo_build.lock
 
-# ========== Hugo Modules ==========
-/go.mod
-/go.sum
-
 # ========== Netlify & Decap CMS ==========
 # Folder .netlify kalau kamu build preview lokal (opsional)
 /.netlify/
