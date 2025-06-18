@@ -3,19 +3,18 @@ backend:
   branch: main
   local_backend: true
 
-# Konfigurasi media folder per post
-media_folder: "content/post/{{slug}}"  # Gambar disimpan di folder post
-public_folder: "/p/{{slug}}"          # Path publik sesuai output Hugo
+media_folder: "content/post/{{slug}}"
+public_folder: "/p/{{slug}}"
 
 collections:
   - name: "post"
     label: "Blog Posts"
-    folder: "content/post"  # Root folder post
+    folder: "content/post"
     create: true
     slug: "{{slug}}"
     identifier_field: "title"
-    path: "{{slug}}/index"  # Format: content/post/nama-post/index.md
-    preview_path: "p/{{slug}}"  # Preview sesuai output Hugo
+    path: "{{slug}}/index"
+    preview_path: "p/{{slug}}"
     editor:
       preview: false
     fields:
@@ -24,21 +23,16 @@ collections:
       - { label: "Description", name: "description", widget: "text", required: false }
       - { label: "Tags", name: "tags", widget: "list", required: false }
       - { label: "Categories", name: "categories", widget: "list", required: false }
-      - { label: "weight", name: "weight", widget: "number", required: false, default: 0 }
-      - { 
-          label: "Featured Image", 
-          name: "image", 
-          widget: "image",
-          # Media akan disimpan di content/post/{{slug}}/cover.jpg
-          media_library: {
-            name: "post_images",
-            config: {
-              public_folder: "/p/{{slug}}",  # Path output Hugo
-              multiple: false
-            }
-          },
-          required: false 
-        }
+      - { label: "Weight", name: "weight", widget: "number", required: false, default: 0 }
+      - label: "Featured Image"
+        name: "image"
+        widget: "image"
+        required: false
+        media_library:
+          name: "post_images"
+          config:
+            public_folder: "/p/{{slug}}"
+            multiple: false
       - { label: "Body", name: "body", widget: "markdown" }
 
   - name: "page"
