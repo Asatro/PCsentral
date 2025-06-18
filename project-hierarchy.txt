@@ -1,0 +1,226 @@
+PCsentral
+├─ .devcontainer
+│  ├─ devcontainer.json
+│  └─ Dockerfile
+├─ .github
+│  └─ workflows
+│     ├─ deploy.yml
+│     └─ update-theme.yml
+├─ .gitignore
+├─ .hugo_build.lock
+├─ .vscode
+│  └─ tasks.json
+├─ assets
+│  ├─ img
+│  │  └─ avatar.png
+│  ├─ jsconfig.json
+│  └─ scss
+│     └─ custom.scss
+├─ config
+│  └─ _default
+│     ├─ config.toml
+│     ├─ markup.toml
+│     ├─ menu.toml
+│     ├─ module.toml
+│     ├─ params.toml
+│     ├─ permalinks.toml
+│     ├─ related.toml
+│     └─ _languages.toml
+├─ content
+│  ├─ .keep
+│  ├─ categories
+│  │  └─ example-category
+│  │     └─ _index.md
+│  ├─ page
+│  │  ├─ archives
+│  │  │  └─ index.md
+│  │  ├─ links
+│  │  │  └─ index.md
+│  │  └─ search
+│  │     └─ index.md
+│  ├─ post
+│  │  ├─ hello-world
+│  │  │  ├─ cover.jpg
+│  │  │  └─ index.md
+│  │  ├─ image-gallery
+│  │  │  ├─ 1.jpg
+│  │  │  ├─ 2.jpg
+│  │  │  └─ index.md
+│  │  ├─ markdown-syntax
+│  │  │  └─ index.md
+│  │  ├─ math-typesetting
+│  │  │  └─ index.md
+│  │  └─ shortcodes
+│  │     ├─ cover.jpg
+│  │     └─ index.md
+│  └─ _index.md
+├─ data
+│  └─ .keep
+├─ go.mod
+├─ go.sum
+├─ LICENSE
+├─ netlify.toml
+├─ project-hierarchy.txt
+├─ public
+│  ├─ 404.html
+│  ├─ admin
+│  │  ├─ config.yml
+│  │  └─ index.html
+│  ├─ archives
+│  │  └─ index.html
+│  ├─ categories
+│  │  ├─ example-category
+│  │  │  ├─ index.html
+│  │  │  ├─ index.xml
+│  │  │  └─ page
+│  │  │     └─ 1
+│  │  │        └─ index.html
+│  │  ├─ index.html
+│  │  ├─ index.xml
+│  │  ├─ page
+│  │  │  └─ 1
+│  │  │     └─ index.html
+│  │  ├─ syntax
+│  │  │  ├─ index.html
+│  │  │  ├─ index.xml
+│  │  │  └─ page
+│  │  │     └─ 1
+│  │  │        └─ index.html
+│  │  └─ themes
+│  │     ├─ index.html
+│  │     ├─ index.xml
+│  │     └─ page
+│  │        └─ 1
+│  │           └─ index.html
+│  ├─ favicon.png
+│  ├─ img
+│  │  ├─ avatar.png
+│  │  └─ avatar_hu_c68a00bbf16dac8.png
+│  ├─ index.html
+│  ├─ index.xml
+│  ├─ links
+│  │  └─ index.html
+│  ├─ p
+│  │  ├─ hello-world
+│  │  │  ├─ cover.jpg
+│  │  │  ├─ cover_hu_bea442a1395058f4.jpg
+│  │  │  ├─ cover_hu_c86b681f3fee94ff.jpg
+│  │  │  ├─ cover_hu_e95a4276bf860a84.jpg
+│  │  │  └─ index.html
+│  │  ├─ image-gallery
+│  │  │  ├─ 1.jpg
+│  │  │  ├─ 1_hu_811b671457ffff1f.jpg
+│  │  │  ├─ 1_hu_c74af69dd7c1dcda.jpg
+│  │  │  ├─ 2.jpg
+│  │  │  ├─ 2_hu_27862a49608da0d9.jpg
+│  │  │  ├─ 2_hu_3e58a979f20e4e46.jpg
+│  │  │  ├─ 2_hu_42f6436cb1637265.jpg
+│  │  │  ├─ 2_hu_4dc3db583644b205.jpg
+│  │  │  ├─ 2_hu_b17bf99990319ec5.jpg
+│  │  │  └─ index.html
+│  │  ├─ markdown-syntax-guide
+│  │  │  └─ index.html
+│  │  ├─ math-typesetting
+│  │  │  └─ index.html
+│  │  └─ shortcodes
+│  │     ├─ cover.jpg
+│  │     ├─ cover_hu_3a2cb75c11443827.jpg
+│  │     ├─ cover_hu_52b35abfd57b8d11.jpg
+│  │     ├─ cover_hu_5667347daefb4230.jpg
+│  │     └─ index.html
+│  ├─ page
+│  │  ├─ 1
+│  │  │  └─ index.html
+│  │  ├─ index.html
+│  │  ├─ index.xml
+│  │  └─ page
+│  │     └─ 1
+│  │        └─ index.html
+│  ├─ post
+│  │  ├─ index.html
+│  │  ├─ index.xml
+│  │  └─ page
+│  │     └─ 1
+│  │        └─ index.html
+│  ├─ scss
+│  │  └─ style.min.946cca6c6259ef94ac55abfae7c7bf3291ea3ed5eea17ef77500b257217c6710.css
+│  ├─ search
+│  │  ├─ index.html
+│  │  └─ index.json
+│  ├─ sitemap.xml
+│  ├─ tags
+│  │  ├─ css
+│  │  │  ├─ index.html
+│  │  │  ├─ index.xml
+│  │  │  └─ page
+│  │  │     └─ 1
+│  │  │        └─ index.html
+│  │  ├─ example-tag
+│  │  │  ├─ index.html
+│  │  │  ├─ index.xml
+│  │  │  └─ page
+│  │  │     └─ 1
+│  │  │        └─ index.html
+│  │  ├─ html
+│  │  │  ├─ index.html
+│  │  │  ├─ index.xml
+│  │  │  └─ page
+│  │  │     └─ 1
+│  │  │        └─ index.html
+│  │  ├─ index.html
+│  │  ├─ index.xml
+│  │  ├─ markdown
+│  │  │  ├─ index.html
+│  │  │  ├─ index.xml
+│  │  │  └─ page
+│  │  │     └─ 1
+│  │  │        └─ index.html
+│  │  ├─ page
+│  │  │  └─ 1
+│  │  │     └─ index.html
+│  │  └─ themes
+│  │     ├─ index.html
+│  │     ├─ index.xml
+│  │     └─ page
+│  │        └─ 1
+│  │           └─ index.html
+│  ├─ ts
+│  │  ├─ main.1e9a3bafd846ced4c345d084b355fb8c7bae75701c338f8a1f8a82c780137826.js
+│  │  ├─ main.79c52886ab4bb1f72e5023e71f52ca020421627e36c525e9843d78202bb56392.js
+│  │  └─ search.js
+│  └─ uploads
+├─ README.md
+├─ resources
+│  └─ _gen
+│     ├─ assets
+│     │  └─ scss
+│     │     ├─ style.scss_77b10c8e87ff110a62c52933fe3f7f11.content
+│     │     └─ style.scss_77b10c8e87ff110a62c52933fe3f7f11.json
+│     └─ images
+│        ├─ img
+│        │  ├─ avatar.png
+│        │  └─ avatar_hu_c68a00bbf16dac8.png
+│        └─ p
+│           ├─ hello-world
+│           │  ├─ cover_hu_bea442a1395058f4.jpg
+│           │  ├─ cover_hu_c86b681f3fee94ff.jpg
+│           │  └─ cover_hu_e95a4276bf860a84.jpg
+│           ├─ image-gallery
+│           │  ├─ 1_hu_811b671457ffff1f.jpg
+│           │  ├─ 1_hu_c74af69dd7c1dcda.jpg
+│           │  ├─ 2_hu_27862a49608da0d9.jpg
+│           │  ├─ 2_hu_3e58a979f20e4e46.jpg
+│           │  ├─ 2_hu_42f6436cb1637265.jpg
+│           │  ├─ 2_hu_4dc3db583644b205.jpg
+│           │  └─ 2_hu_b17bf99990319ec5.jpg
+│           └─ shortcodes
+│              ├─ cover_hu_3a2cb75c11443827.jpg
+│              ├─ cover_hu_52b35abfd57b8d11.jpg
+│              └─ cover_hu_5667347daefb4230.jpg
+└─ static
+   ├─ admin
+   │  ├─ config.yml
+   │  └─ index.html
+   ├─ favicon.png
+   ├─ img
+   └─ uploads

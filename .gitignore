@@ -1,0 +1,46 @@
+# ========== Hugo Configuration ==========
+.github/workflows/deploy.yml
+# ========== Hugo Build & Caches ==========
+/public/
+/resources/
+/hugo_stats.json
+/.hugo_build.lock
+
+# ========== Hugo Modules ==========
+/go.mod
+/go.sum
+
+# ========== Netlify & Decap CMS ==========
+# Folder .netlify kalau kamu build preview lokal (opsional)
+/.netlify/
+
+# CMS uploads (media_folder di static/uploads)
+static/uploads/*
+!static/uploads/.gitkeep
+
+# ========== Node Modules & Frontend Tools ==========
+/node_modules/
+/package-lock.json
+/yarn.lock
+
+# PostCSS, SASS cache (kalau pakai)
+/.sass-cache/
+/.cache/
+
+# ========== Editor & System Files ==========
+.vscode/
+.devcontainer/
+.DS_Store
+Thumbs.db
+*.log
+*.swp
+*.bak
+*~
+
+# ========== Admin preview (optional CMS preview template) ==========
+static/admin/preview-template.html
+
+# ========== Generated Images (dari Hugo image processing) ==========
+# (Termasuk avatar_hu_XXXXXX.png dll dari /resources/_gen/images)
+resources/_gen/*
+public/**/*_hu_*.*

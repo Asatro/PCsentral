@@ -1,0 +1,40 @@
+[build]
+  command = "hugo --gc --minify"
+  publish = "public"
+
+[build.environment]
+  HUGO_VERSION = "0.147.8"
+  HUGO_ENABLEGITINFO = "true"
+  HUGO_ENV = "production"
+
+# Context-specific settings (optional)
+[context.production]
+  command = "hugo --gc --minify --enableGitInfo"
+
+[context.deploy-preview]
+  command = "hugo --gc --minify --buildFuture -b $DEPLOY_PRIME_URL"
+
+[context.branch-deploy]
+  command = "hugo --gc --minify -b $DEPLOY_PRIME_URL"
+
+# Redirects for Decap CMS
+[[redirects]]
+  from = "/admin/*"
+  to = "/admin/index.html"
+  status = 200
+
+# Headers for security
+[[headers]]
+  for = "/*"
+  [headers.values]
+    X-Frame-Options = "DENY"
+    X-XSS-Protection = "1; mode=block"
+    X-Content-Type-Options = "nosniff"
+    Referrer-Policy = "strict-origin-when-cross-origin"
+
+# Environment variables for Decap CMS
+[context.production.environment]
+  HUGO_BASEURL = "https://pcsentral.netlify.app"
+
+[context.develop.environment]
+  HUGO_BASEURL = "http://localhost:1313"
