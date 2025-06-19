@@ -13,8 +13,6 @@ collections:
     slug: "{{slug}}"
     identifier_field: "title"
     path: "{{slug}}/index"
-    media_folder: "static/uploads"
-    public_folder: "/uploads"
     editor:
       preview: false
     fields:
@@ -43,50 +41,3 @@ collections:
     fields:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Body", name: "body", widget: "markdown" }
-
-  - name: "search_page"
-    label: "Search Page"
-    files:
-      - label: "Search"
-        name: "search"
-        file: "content/page/search/index.md"
-        fields:
-          - { label: "Title", name: "title", widget: "string" }
-          - { label: "Slug", name: "slug", widget: "string" }
-          - { label: "Layout", name: "layout", widget: "string", default: "search" }
-          - label: "Outputs"
-            name: "outputs"
-            widget: "list"
-            default: ["html", "json"]
-          - label: "Menu"
-            name: "menu"
-            widget: "object"
-            fields:
-              - { label: "Weight", name: "weight", widget: "number", default: 3 }
-              - label: "Params"
-                name: "params"
-                widget: "object"
-                fields:
-                  - { label: "Icon", name: "icon", widget: "string", default: "search" }
-
-  - name: "archives_page"
-    label: "Archives Page"
-    files:
-      - label: "Archives"
-        name: "archives"
-        file: "content/page/archives/index.md"
-        fields:
-          - { label: "Title", name: "title", widget: "string" }
-          - { label: "Date", name: "date", widget: "datetime" }
-          - { label: "Layout", name: "layout", widget: "string", default: "archives" }
-          - { label: "Slug", name: "slug", widget: "string", default: "archives" }
-          - label: "Menu"
-            name: "menu"
-            widget: "object"
-            fields:
-              - { label: "Weight", name: "weight", widget: "number", default: 2 }
-              - label: "Params"
-                name: "params"
-                widget: "object"
-                fields:
-                  - { label: "Icon", name: "icon", widget: "string", default: "archives" }
