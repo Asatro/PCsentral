@@ -10,12 +10,11 @@ collections:
     label: "Blog Posts"
     folder: "content/post"
     create: true
-    slug: "{{slug}}"
+    # slug: "{{slug}}"
     identifier_field: "title"
-    path: "{{slug}}/index"
-    preview_path: "p/{{slug}}"
-    media_folder: "content/post/{{slug}}"
-    public_folder: "/p/{{slug}}"
+    # path: "{{slug}}/index"
+    media_folder: "static/uploads"
+    public_folder: "/uploads"
     editor:
       preview: false
     fields:
