@@ -10,7 +10,6 @@ cover: PCsentral_Logo.png
 categories:
   - Tentang
 weight: 1
-image: /p/tentang-kami/pcsentral_logo.png
 ---
 
 **PCsentral** adalah website berita, database, dan review komponen PC yang disajikan sepenuhnya dalam bahasa Indonesia, ditujukan untuk membantu para pengguna komputer, baik pemula maupun profesional, dalam memahami dunia hardware secara lebih mendalam dan informatif.
