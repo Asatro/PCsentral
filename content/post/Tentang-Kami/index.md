@@ -1,7 +1,7 @@
 ---
 title: "Tentang Kami"
 date: 2025-06-19T00:00:00+00:00
-cover: cover.jpg
+cover: PCsentral_Logo.png
 categories:
   - "Tentang"
 tags:
