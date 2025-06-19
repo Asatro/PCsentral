@@ -1,7 +1,7 @@
 ---
 title: "Tentang Kami"
 date: 2025-06-19T00:00:00+00:00
-image: cover.jpg     # Field 'cover' (bukan 'image')
+cover: cover.jpg
 categories:
   - "Tentang"
 tags:
@@ -10,16 +10,38 @@ weight: 1
 description: "PCsentral adalah website berita, database, dan review khusus komponen PC berbahasa Indonesia."
 ---
 
-**PCsentral** adalah website berita, database, dan review khusus komponen PC berbahasa Indonesia.
+**PCsentral** adalah website berita, database, dan review komponen PC yang disajikan sepenuhnya dalam bahasa Indonesia, ditujukan untuk membantu para pengguna komputer, baik pemula maupun profesional, dalam memahami dunia hardware secara lebih mendalam dan informatif.
 
-Kami hadir untuk memenuhi kebutuhan para penggemar komputer di Indonesia dengan menyediakan informasi terkini seputar perkembangan teknologi, berita terbaru, serta ulasan mendalam mengenai berbagai komponen PC seperti prosesor, motherboard, kartu grafis, memori, storage, dan perangkat lainnya.
+Kami hadir untuk memenuhi kebutuhan komunitas teknologi di Indonesia dengan menyediakan konten terkini seputar:
 
-Selain berita dan review, PCsentral juga menyediakan database komponen PC yang dapat membantu Anda membandingkan spesifikasi dan harga dari berbagai produk yang tersedia di pasaran. Dengan fitur pencarian yang mudah digunakan, Anda dapat menemukan informasi yang Anda butuhkan dengan cepat dan akurat.
+- **Perkembangan hardware terbaru**
+- **Ulasan produk (review) yang jujur dan transparan**
+- **Perbandingan spesifikasi dan harga**
+- **Artikel panduan merakit PC, upgrade sistem, dan optimalisasi performa**
 
-Tim kami terdiri dari penulis dan reviewer berpengalaman yang selalu berusaha memberikan konten yang objektif, terpercaya, dan mudah dipahami. Kami juga membuka ruang diskusi bagi para pembaca untuk berbagi pengalaman, tips, dan rekomendasi seputar dunia komputer.
+🎯 **Tujuan utama kami** adalah menjadi _sumber referensi utama_ bagi pengguna PC di Indonesia—baik untuk gaming, produktivitas, kreatif, ataupun penggunaan harian.
 
-PCsentral berkomitmen untuk menjadi referensi utama bagi para pengguna PC di Indonesia, baik untuk kebutuhan gaming, pekerjaan profesional, maupun penggunaan sehari-hari. Kami percaya bahwa informasi yang tepat dapat membantu Anda membuat keputusan terbaik dalam memilih dan merakit PC impian Anda.
+🧠 **PCsentral juga memiliki database komponen PC**, yang memungkinkan Anda untuk:
+- Melakukan pencarian berdasarkan spesifikasi
+- Membandingkan produk dari berbagai merek
+- Menentukan pilihan terbaik berdasarkan kebutuhan dan anggaran Anda
 
-Terima kasih telah mengunjungi PCsentral. Jangan ragu untuk menjelajahi artikel, review, dan database kami. Jika Anda memiliki pertanyaan, saran, atau ingin berkontribusi, silakan hubungi kami melalui halaman kontak.
+💻 Untuk transparansi dan kolaborasi terbuka, source code website ini dapat Anda temukan di GitHub melalui tautan berikut:
 
-Selamat datang di
+➡️ **[GitHub: Asatro / PCsentral](https://github.com/Asatro/PCsentral)**  
+Anda dipersilakan untuk melihat struktur proyek, melaporkan bug, atau bahkan berkontribusi langsung ke pengembangannya.
+
+👨‍💻 Tim kami terdiri dari penulis, pengembang, dan reviewer yang memiliki latar belakang di bidang IT dan hardware enthusiast. Kami mengutamakan:
+- **Keakuratan** dalam menyajikan data
+- **Objektivitas** dalam ulasan produk
+- **Keterbukaan** terhadap saran dan masukan dari komunitas
+
+🗨️ Kami juga membuka ruang diskusi dan kolaborasi melalui halaman komentar dan forum internal, agar pembaca bisa saling berbagi pengalaman, rekomendasi, maupun permasalahan teknis yang dihadapi.
+
+📬 Jika Anda memiliki pertanyaan, kritik, atau ingin mengirimkan artikel/konten, Anda dapat menghubungi kami melalui halaman [Kontak](/kontak).
+
+---
+
+Terima kasih telah mengunjungi **PCsentral**. Mari bersama membangun komunitas pengguna PC yang cerdas, kritis, dan saling mendukung di Indonesia.
+
+Selamat datang di PCsentral — **rumah informasi dan eksplorasi teknologi PC berbahasa Indonesia!**
