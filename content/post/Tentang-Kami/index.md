@@ -1,13 +1,15 @@
 ---
-title: "Tentang Kami"
 date: 2025-06-19T00:00:00+00:00
 cover: cover.jpg
-categories:
-  - "Tentang"
+title: Tentang Kami
+description: PCsentral adalah website berita, database, dan review khusus
+  komponen PC berbahasa Indonesia.
 tags:
-  - "PCsentral"
+  - PCsentral
+categories:
+  - Tentang
 weight: 1
-description: "PCsentral adalah website berita, database, dan review khusus komponen PC berbahasa Indonesia."
+image: /p/tentang-kami/pcsentral_logo.png
 ---
 
 **PCsentral** adalah website berita, database, dan review komponen PC yang disajikan sepenuhnya dalam bahasa Indonesia, ditujukan untuk membantu para pengguna komputer, baik pemula maupun profesional, dalam memahami dunia hardware secara lebih mendalam dan informatif.
