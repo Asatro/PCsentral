@@ -13,7 +13,7 @@ collections:
     slug: "{{slug}}"
     identifier_field: "title"
     path: "{{slug}}/index"
-    media_folder: "../../static/uploads"
+    media_folder: "static/uploads"
     public_folder: "/uploads"
     editor:
       preview: false
