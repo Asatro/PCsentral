@@ -2,8 +2,8 @@ backend:
   name: git-gateway
   branch: main
 
-media_folder: "content/post/{{slug}}"
-public_folder: "/p/{{slug}}"
+media_folder: "static/uploads"
+public_folder: "/uploads"
 
 collections:
   - name: "post"
@@ -14,6 +14,8 @@ collections:
     identifier_field: "title"
     path: "{{slug}}/index"
     preview_path: "p/{{slug}}"
+    media_folder: "content/post/{{slug}}"
+    public_folder: "/p/{{slug}}"
     editor:
       preview: false
     fields:
@@ -30,7 +32,6 @@ collections:
         media_library:
           name: "post_images"
           config:
-            public_folder: "/p/{{slug}}"
             multiple: false
       - { label: "Body", name: "body", widget: "markdown" }
 
