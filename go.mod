@@ -1,4 +1,4 @@
-module github.com/CaiJimmy/hugo-theme-stack-starter
+module github.com/CaiJimmy/hugo-theme-stack/v3.30.0
 
 go 1.24.4
 

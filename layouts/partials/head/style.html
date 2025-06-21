@@ -1,0 +1,4 @@
+{{- warnf ">>> STYLE PARTIAL OVERRIDDEN <<<" -}}
+{{ $sass := resources.Get "scss/main.scss" }}
+{{ $style := $sass | toCSS | minify | resources.Fingerprint "sha256" }}
+<link rel="stylesheet" href="{{ $style.RelPermalink }}">
