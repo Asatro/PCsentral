@@ -12,7 +12,7 @@ collections:
     create: true
     slug: "{{slug}}"
     identifier_field: "title"
-    path: "{{slug}}/index"
+    path: "{{slug}}"
     editor:
       preview: false
     fields:
