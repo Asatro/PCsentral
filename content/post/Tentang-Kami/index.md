@@ -2,7 +2,7 @@
 title: "Tentang Kami"
 description: "Tim PCsentral adalah portal berita, ulasan, dan database komponen PC terlengkap di Indonesia."
 date: 2025-06-21T21:00:00+07:00
-image: "/uploads/PCsentral_Logo.png"
+image: "PCsentral_Logo.png"
 categories:
   - Profil
 tags:
@@ -42,7 +42,7 @@ Menjadi pusat informasi terpercaya dan terlengkap tentang dunia PC di Indonesia,
 
 Tim PCsentral terdiri dari orang-orang yang punya semangat di dunia teknologi:
 
-- **Ilham S.** – Editor Utama dan Spesialis Hardware
+- **Ilhan S.** – Editor Utama dan Spesialis Hardware
 - **Kamu?** – Kami selalu terbuka untuk kontributor baru! 🚀
 
 ---
