@@ -17,7 +17,7 @@ draft: false
 Ingin bangun PC impian buat gaming dan produktivitas? Ini dia build powerful dengan komponen berkualitas dan performa tinggi 💥
 
 ## 🧠 Prosesor – AMD Ryzen 5 7500F
-![Ryzen 5 7500F](ryzen-7500f.jpg)  
+![Ryzen 5 7500F](ryzen-7500f.png)  
 Prosesor 6-core 12-thread generasi terbaru berbasis Zen 4 tanpa iGPU, ideal untuk build yang hemat tapi kencang.  
 👉 [Lihat detail prosesor](/post/amd-ryzen-5-7500f)
 
