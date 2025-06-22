@@ -17,7 +17,7 @@ draft: false
 ✨ Lagi cari inspirasi PC build serba putih yang nggak cuma kencang tapi juga kece di meja kerja? Rakitannya dirancang buat kamu yang suka tampilan clean dan minimalis, tapi tetap butuh performa tinggi buat gaming, editing, atau multitasking berat. Estetika putihnya dipadukan dengan elemen natural dari casing beraksen kayu bikin tampil beda tanpa lebay. 
 
 ## 🧠 Prosesor – AMD Ryzen 5 7500F – **Rp2.239.000**
-![Ryzen 5 7500F](ryzen-7500f.jpg)  
+![Ryzen 5 7500F](ryzen-7500f.png)  
 Prosesor 6-core 12-thread generasi terbaru berbasis Zen 4 tanpa iGPU, ideal untuk build yang hemat tapi kencang.  
 👉 [Lihat detail prosesor](/post/amd-ryzen-5-7500f)
 
