@@ -1,5 +1,5 @@
 ---
-title: "AMD Ryzen 5 7500F – Prosesor Kencang Tanpa IGP"
+title: "AMD Ryzen 5 7500F – Prosesor Kencang Tanpa IGPU"
 description: "Detail spesifikasi dan keunggulan AMD Ryzen 5 7500F, prosesor 6-core berbasis arsitektur Zen 4 untuk performa maksimal."
 date: 2025-06-23T19:00:00+07:00
 image: "ryzen-7500f.png"
@@ -13,11 +13,11 @@ weight: 0
 draft: false
 ---
 
-## 🧠 AMD Ryzen 5 7500F – Tanpa IGP, Performa Tetap Ngebut
+## 🧠 AMD Ryzen 5 7500F – Tanpa IGPU, Performa Tetap Ngebut
 
 Buat kamu yang lagi cari prosesor bertenaga tapi tetap ramah di kantong, **Ryzen 5 7500F** bisa jadi pilihan pas. Prosesor ini hadir dengan **6 core dan 12 thread** berbasis arsitektur **Zen 4**, cocok buat gaming, multitasking, atau kerja berat seperti editing dan coding.
 
-Walau tanpa integrated GPU (IGP), performanya nggak main-main. Justru dengan absennya IGP, TDP-nya bisa lebih efisien dan harganya jadi lebih terjangkau — asal kamu udah siap pakai GPU diskrit ya!
+Walau tanpa integrated GPU (IGPU), performanya nggak main-main. Justru dengan absennya IGPU, TDP-nya bisa lebih efisien dan harganya jadi lebih terjangkau — asal kamu udah siap pakai GPU diskrit ya!
 
 ---
 
