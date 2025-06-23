@@ -13,8 +13,7 @@ published = "02 January 2006"
 lastUpdated = "02 January 2006 15:04 WIB"
 
 [sidebar]
-emoji = "🖥️"
-# subtitle = "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+subtitle = "Semua Tentang PC, dalam Satu Sentral."
 
 [sidebar.avatar]
 enabled = true
@@ -76,11 +75,19 @@ enabled = true
 ## Comments
 [comments]
 enabled = true
-provider = "disqus"
+provider = "giscus"
 
-[comments.disqusjs]
-shortname = ""
-apiUrl = ""
-apiKey = ""
-admin = ""
-adminLabel = ""
+[comments.giscus]
+repo = "Asatro/PCsentral"
+repoID = "R_kgDOO8jCnQ"
+category = "General"
+categoryID = "DIC_kwDOO8jCnc4Cr4d9"
+mapping = "pathname"
+strict = 0
+reactionsEnabled = 1
+emitMetadata = 0
+inputPosition = "top"
+lightTheme = "light"
+darkTheme = "dark"
+lang = "id"
+loading = "lazy"

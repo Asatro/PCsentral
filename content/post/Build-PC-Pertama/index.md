@@ -1,20 +1,20 @@
 ---
-title: "Build PC Gaming dengan Ryzen 5 7500F dan RX 9060 XT"
-description: "Rakit PC tangguh untuk gaming dan produktivitas berbasis Ryzen 5 7500F dengan komponen terbaik di kelasnya."
+title: "Build PC Ryzen 5 7500F & RX 9060 XT"
+description: "Rakit PC untuk gaming dan produktivitas berbasis Ryzen 5 7500F & RX 9060 XT dengan komponen terbaik di kelasnya."
 date: 2025-06-21T21:15:00+07:00
 image: "build-cover.png"
 categories:
   - Rakit PC
 tags:
-  - AMD Ryzen
+  - AMD
   - RX 9060 XT
-  - Build PC
+  - Mending Rakit PC
   - Komponen
 weight: 0
 draft: false
 ---
 
-✨ Lagi cari inspirasi PC build serba putih yang nggak cuma kencang tapi juga kece di meja kerja? Rakitannya dirancang buat kamu yang suka tampilan clean dan minimalis, tapi tetap butuh performa tinggi buat gaming, editing, atau multitasking berat. Estetika putihnya dipadukan dengan elemen natural dari casing beraksen kayu bikin tampil beda tanpa lebay. 
+✨ Lagi cari inspirasi PC build serba putih yang nggak cuma kencang tapi juga kece di meja kerja? Rakitannya dirancang buat kamu yang suka tampilan clean dan minimalis, tapi tetap butuh performa tinggi buat gaming, editing, atau multitasking berat. Estetika putihnya dipadukan dengan elemen natural dari casing beraksen kayu bikin tampil beda. 
 
 ## 🧠 Prosesor – AMD Ryzen 5 7500F – **Rp2.239.000**
 ![Ryzen 5 7500F](ryzen-7500f.png)  
@@ -73,10 +73,7 @@ Pendingin udara dengan display digital suhu dan desain solid.
 ---
 
 ## 🧾 Kesimpulan
-
  Build ini cocok banget buat yang pengen PC dengan karakter — bukan cuma mesin kencang, tapi juga punya nilai estetika. Casing Tecware Timber M hadir dengan nuansa putih dan aksen kayu asli, berpadu rapi dengan komponen lainnya yang dominan putih. Desain bersih, rapi, dan siap jadi pusat perhatian di setup kamu. Semua part tersedia di Indonesia dan bisa kamu cek lewat link masing-masing.
-
-
 
 **Total Harga (tanpa monitor & peripheral)**:  
 🧾 Rp2.239.000
