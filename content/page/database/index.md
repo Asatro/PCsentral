@@ -7,7 +7,7 @@ menu:
   main:
     weight: 4
     params:
-      icon: external-link
+      icon: link
 ---
 
 Berikut ini adalah dua sumber informasi terpercaya dari [TechPowerUp](https://www.techpowerup.com/) yang dapat kamu gunakan untuk mencari spesifikasi lengkap berbagai jenis hardware komputer, terutama GPU dan CPU.
