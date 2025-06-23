@@ -79,14 +79,22 @@ Pendingin udara dengan display digital suhu dan desain solid.
 
 
 **Total Harga (tanpa monitor & peripheral)**:  
-🧾 Rp2.239.000  
-➕ Rp2.400.000  
+🧾 Rp2.239.000
+
+➕ Rp2.400.000
+ 
 ➕ Rp1.105.000  
+
 ➕ Rp1.450.000  
-➕ Rp7.030.000 
-➕ Rp1.117.000  
-➕ Rp550.000 
-➕ Rp340.000  
+
+➕ Rp7.030.000
+
+➕ Rp1.117.000
+
+➕ Rp550.000
+
+➕ Rp340.000
+
 **= Rp16.231.000**
 
 💡 *Harga monitor dan peripheral tidak dihitung di sini.*
