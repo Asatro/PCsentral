@@ -9,7 +9,6 @@ tags:
   - AMD
   - RX 9060 XT
   - Mending Rakit PC
-  - Komponen
   - Review
 weight: 0
 draft: false

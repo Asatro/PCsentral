@@ -6,8 +6,6 @@ image: "PCsentral_Logo.png"
 categories:
   - Profil
 tags:
-  - Tentang Kami
-  - PC Indonesia
 weight: 0
 draft: false
 ---

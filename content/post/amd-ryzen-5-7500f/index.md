@@ -8,8 +8,7 @@ categories:
 tags:
   - AMD
   - Ryzen 7000 Series
-  - CPU Gaming
-  - Zen 4
+  - AM 5
 weight: 0
 draft: false
 ---
