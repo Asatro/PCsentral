@@ -1,7 +1,7 @@
 ---
 title: "AMD Ryzen 5 7500F – Prosesor Kencang Tanpa IGPU"
 description: "Detail spesifikasi dan keunggulan AMD Ryzen 5 7500F, prosesor 6-core berbasis arsitektur Zen 4 untuk performa maksimal."
-date: 2025-06-23T19:00:00+07:00
+date: 2025-06-13T19:00:00+07:00
 image: "ryzen-7500f.png"
 categories:
   - Prosesor

@@ -1,7 +1,7 @@
 ---
 title: "Build PC Ryzen 5 7500F & RX 9060 XT"
 description: "Rakit PC untuk gaming dan produktivitas berbasis Ryzen 5 7500F & RX 9060 XT dengan komponen terbaik di kelasnya."
-date: 2025-06-21T21:15:00+07:00
+date: 2025-06-22T21:15:00+07:00
 image: "build-cover.png"
 categories:
   - Rakit PC

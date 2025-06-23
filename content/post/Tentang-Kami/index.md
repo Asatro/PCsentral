@@ -1,7 +1,7 @@
 ---
 title: "Tentang Kami"
 description: "Tim PCsentral adalah portal berita, ulasan, dan database komponen PC terlengkap di Indonesia."
-date: 2025-06-21T21:00:00+07:00
+date: 2025-06-12T21:00:00+07:00
 image: "PCsentral_Logo.png"
 categories:
   - Profil
