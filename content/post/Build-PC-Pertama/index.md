@@ -71,10 +71,16 @@ Pendingin udara dengan display digital suhu dan desain solid.
 
 ---
 
-## 📊 Benchmark (Estimasi)
-- Cyberpunk 2077 – 1440p High: ~72 fps
-- Valorant – 1080p Ultra: ~270 fps
-- Blender (Render 4K): 1m 25s (CPU), 38s (GPU)
+- ### 📊 Performa (estimasi)
+
+| Game                   | Setting & Resolusi   | FPS Rata-rata |
+|------------------------|----------------------|---------------|
+| Cyberpunk 2077         | 1440p Ultra (RT Off) | ~72 fps       |
+| Starfield              | 1440p High           | ~85 fps       |
+| Valorant               | 1080p Ultra          | 300+ fps      |
+| Blender 4K (GPU Render)| Cycles Render        | ~38 detik     |
+
+> Berdasarkan pengujian oleh TechPowerUp, RX 9060 XT 16GB setara atau lebih unggul dari RTX 4070 di sejumlah game AAA, terutama yang membutuhkan VRAM besar.
 
 ---
 
