@@ -10,7 +10,7 @@ tags:
   - RX 9060 XT
   - Mending Rakit PC
   - Review
-weight: 0
+weight: 1
 draft: false
 ---
 
@@ -26,49 +26,49 @@ Prosesor 6-core 12-thread generasi terbaru berbasis Zen 4 tanpa iGPU, ideal untu
 ## 🧩 Motherboard – ASRock B650M Pro RS – **Rp2.400.000**
 ![ASRock B650M Pro RS](b650m-pro-rs.png)  
 Motherboard AM5 dengan PCIe 5.0 dan DDR5. Fitur lengkap dan siap upgrade jangka panjang.  
-👉 [Lihat motherboard ini](/post/asrock-b650m-pro-rs)
+👉 [Lihat motherboard ini]({{< relref "/post/asrock-b650m-pro-rs/index.md" >}})
 
 ---
 
 ## ⚡ Storage – Crucial P3 Plus 1TB Gen 4 – **Rp1.105.000**
 ![Crucial P3 Plus](crucial-p3-plus-1tb.png)  
 SSD NVMe Gen 4 super cepat dengan kecepatan hingga 5000MB/s. Cocok buat loading game dan kerja berat.  
-👉 [Detail SSD ini](/post/crucial-p3-plus-1tb)
+👉 [Detail SSD ini]({{< relref "/post/crucial-p3-plus-1tb/index.md" >}})
 
 ---
 
 ## 🧠 RAM – Klevv Fit DDR5 2x16GB 5600MHz CL30 – **Rp1.450.000**
 ![Klevv DDR5](klevv-ddr5-32gb.png)  
 RAM DDR5 dual channel 32GB, performa tinggi dengan latency CL30.  
-👉 [Cek detail RAM ini](/post/klevv-fit-ddr5-5600)
+👉 [Cek detail RAM ini]({{< relref "/post/klevv-fit-ddr5-5600/index.md" >}})
 
 ---
 
 ## 🎮 GPU – ASRock Radeon RX 9060 XT 16GB Steel Legend OC – **Rp7.030.000**
 ![RX 7600 XT Steel Legend](rx9060xt-steellegend.png)  
 GPU kelas menengah dengan VRAM 16GB, cocok banget buat gaming 1440p dan editing.  
-👉 [Review lengkap GPU ini](/post/asrock-rx-9060xt-steellegend)
+👉 [Review lengkap GPU ini]({{< relref "/post/asrock-rx-9060xt-steellegend/index.md" >}})
 
 ---
 
 ## 🔌 PSU – Fractal Ion+ 2 560W 80+ Platinum – **Rp1.117.000**
 ![Fractal Ion+ 2](fractal-ion2.png)  
 Power supply modular dengan efisiensi platinum. Suara senyap dan komponen premium.  
-👉 [Lihat PSU ini](/post/fractal-ion-2-560w)
+👉 [Lihat PSU ini]({{< relref "/post/fractal-ion-2-560w/index.md" >}})
 
 ---
 
 ## 🧱 Casing – Tecware Timber M – **Rp550.000**
 ![Tecware Timber M](timber-m.png)  
 Casing mid-tower dengan airflow baik, desain modern, dan kabel management gampang.  
-👉 [Lihat casing ini](/post/tecware-timber-m)
+👉 [Lihat casing ini]({{< relref "/post/tecware-timber-m/index.md" >}})
 
 ---
 
 ## 🌬️ Cooler – Ocypus Iota A40 BK – **Rp340.000**  
 ![Ocypus Iota A40](ocypus-iota-a40.png)  
 Pendingin udara dengan display digital suhu dan desain solid.  
-👉 [Lihat cooler ini](/post/ocypus-iota-a40)
+👉 [Lihat cooler ini]({{< relref "/post/ocypus-iota-a40/index.md" >}})
 
 ---
 
