@@ -6,7 +6,7 @@ image: "PCsentral_Logo.png"
 categories:
   - Profil
 tags:
-weight: 0
+weight: 1
 draft: false
 ---
 
