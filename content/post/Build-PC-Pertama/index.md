@@ -19,7 +19,7 @@ draft: false
 ## 🧠 Prosesor – AMD Ryzen 5 7500F – **Rp2.239.000**
 ![Ryzen 5 7500F](ryzen-7500f.png)  
 Prosesor 6-core 12-thread generasi terbaru berbasis Zen 4 tanpa iGPU, ideal untuk build yang hemat tapi kencang.  
-👉 [Lihat detail prosesor]({{< relref "/amd-ryzen-5-7500f.md" >}})
+👉 [Lihat detail prosesor]({{< relref "/post/amd-ryzen-5-7500f/index.md" >}})
 
 ---
 
