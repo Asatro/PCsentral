@@ -10,6 +10,7 @@ tags:
   - RX 9060 XT
   - Mending Rakit PC
   - Komponen
+  - Review
 weight: 0
 draft: false
 ---
@@ -72,6 +73,13 @@ Pendingin udara dengan display digital suhu dan desain solid.
 
 ---
 
+## 📊 Benchmark (Estimasi)
+- Cyberpunk 2077 – 1440p High: ~72 fps
+- Valorant – 1080p Ultra: ~270 fps
+- Blender (Render 4K): 1m 25s (CPU), 38s (GPU)
+
+---
+
 ## 🧾 Kesimpulan
  Build ini cocok banget buat yang pengen PC dengan karakter — bukan cuma mesin kencang, tapi juga punya nilai estetika. Casing Tecware Timber M hadir dengan nuansa putih dan aksen kayu asli, berpadu rapi dengan komponen lainnya yang dominan putih. Desain bersih, rapi, dan siap jadi pusat perhatian di setup kamu. Semua part tersedia di Indonesia dan bisa kamu cek lewat link masing-masing.
 
@@ -104,4 +112,4 @@ Kalau kamu mau rakit build serupa, tinggal ganti komponen sesuai kebutuhan. Jang
 
 ---
 
-> Dibuat oleh Tim **PCsentral** – solusi rakit PC lokal terpercaya 💪
+> Dibuat oleh Tim **PCsentral** – Semua Tentang PC, dalam Satu Sentral.
