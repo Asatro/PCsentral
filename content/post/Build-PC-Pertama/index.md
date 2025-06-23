@@ -10,7 +10,6 @@ tags:
   - RX 9060 XT
   - Mending Rakit PC
   - Review
-weight: 1
 draft: false
 ---
 

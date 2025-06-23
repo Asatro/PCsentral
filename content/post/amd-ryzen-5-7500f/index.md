@@ -9,7 +9,6 @@ tags:
   - AMD
   - Ryzen 7000 Series
   - AM 5
-weight: 2
 draft: false
 ---
 
